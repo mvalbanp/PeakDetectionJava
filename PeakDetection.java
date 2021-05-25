@@ -1,4 +1,4 @@
-package com.example.ioelsensorapp;
+package com.example.app;
 
 import java.nio.ByteBuffer;
 
